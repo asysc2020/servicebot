@@ -1251,6 +1251,12 @@ body.login .footer{
         font-size: 46px !important;
     }
 
+    @media (max-width: 768px) {
+        .featured-intro h1 {
+            font-size: 46px !important;
+        }
+    }
+
     /* message */
     .app-message{
         padding: 3px 15px;
